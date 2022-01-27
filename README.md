@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Yeeterboi4, Thats it lol.
 
-C++ is epic.
+C++, Python and Batch are epic.
