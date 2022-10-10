@@ -7,7 +7,12 @@ HIRE ME!!!
 
 program HIREME;
 
+
 begin
+
+
   writeln ('HIRE ME BROTHER');
+  
+  
 end.
 
