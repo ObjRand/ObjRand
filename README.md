@@ -4,3 +4,10 @@ PASCAL, HTML, CSS, C++, C, Powershell, Python and Batch are epic.
 
 PASCAL PRO !!!
 HIRE ME!!!
+
+program HIREME;
+
+begin
+  writeln ('HIRE ME BROTHER');
+end.
+
