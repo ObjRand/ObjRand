@@ -5,6 +5,8 @@ PASCAL, HTML, CSS, C++, C, Powershell, Python and Batch are epic.
 PASCAL PRO !!!
 HIRE ME!!!
 
+# Im joking, I don't know much pascal :)
+
 program HIREME;
 
 
